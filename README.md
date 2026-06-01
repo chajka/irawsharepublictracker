@@ -16,5 +16,7 @@ This repository is intended for:
 - Feature requests
 - Compatibility reports
 - General feedback
+- Messages in Japanese are welcome. The developer is Japanese.
+- 日本語OKです。作者は日本人です
 
 Thank you for helping improve iRAWShare.
