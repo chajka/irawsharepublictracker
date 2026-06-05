@@ -162,40 +162,6 @@
         }
       }
     },
-    "contextmenu.archiveApp" : {
-      "comment" : "Message displayed context menu item archive app.",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Archive App"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アプリケーションをアーカイブ"
-          }
-        }
-      }
-    },
-    "contextmenu.removeAppArchive" : {
-      "comment" : "Message displayed context menu item remove app archive.",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remove App Archive"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アーカイブを削除"
-          }
-        }
-      }
-    },
     "contextmenu.removeApplication" : {
       "comment" : "Message displayed context menu item remove an application from a device.",
       "localizations" : {
@@ -209,23 +175,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "アプリケーションを削除"
-          }
-        }
-      }
-    },
-    "contextmenu.restoreAppArchive" : {
-      "comment" : "Message displayed context menu item restore app archive.",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restore App Archive"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アーカイブから復元"
           }
         }
       }
