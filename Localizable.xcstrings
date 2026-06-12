@@ -503,6 +503,23 @@
         }
       }
     },
+    "transfer.conflict.unknownSize" : {
+      "comment" : "Fallback size text displayed when transfer conflict resolution does not know the source file size.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不明"
+          }
+        }
+      }
+    },
     "transfer.complete.title" : {
       "comment" : "Title displayed after files have been transferred from Mac.",
       "localizations" : {
