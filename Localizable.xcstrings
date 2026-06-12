@@ -25,6 +25,23 @@
         }
       }
     },
+    "browser.newFolder.defaultName" : {
+      "comment" : "Default name for a newly created folder in the file browser.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untitled Folder"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名称未設定フォルダ"
+          }
+        }
+      }
+    },
     "connectiontype.network" : {
       "comment" : "A label describing a Network connection.",
       "localizations" : {
