@@ -435,6 +435,91 @@
         }
       }
     },
+    "transfer.conflict.message" : {
+      "comment" : "Message displayed when the destination already has a file with the same name but a different size. The placeholders are filename, source size, and destination size.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" already exists at the destination with a different size.\n\nSource: %@\nDestination: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "転送先に同じ名前の \"%@\" がありますが、サイズが異なります。\n\n転送元: %@\n転送先: %@"
+          }
+        }
+      }
+    },
+    "transfer.conflict.overwrite" : {
+      "comment" : "Button title for overwriting a destination file during transfer conflict resolution.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overwrite"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上書き"
+          }
+        }
+      }
+    },
+    "transfer.conflict.skip" : {
+      "comment" : "Button title for skipping a file during transfer conflict resolution.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スキップ"
+          }
+        }
+      }
+    },
+    "transfer.conflict.title" : {
+      "comment" : "Title displayed when transfer conflict resolution requires the user to choose skip or overwrite.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File Already Exists"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "同名のファイルがあります"
+          }
+        }
+      }
+    },
+    "transfer.conflict.unknownSize" : {
+      "comment" : "Fallback size text displayed when transfer conflict resolution does not know the source file size.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不明"
+          }
+        }
+      }
+    },
     "transfer.complete.title" : {
       "comment" : "Title displayed after files have been transferred from Mac.",
       "localizations" : {
