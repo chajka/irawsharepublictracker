@@ -469,6 +469,23 @@
         }
       }
     },
+    "transfer.conflict.skip" : {
+      "comment" : "Button title for skipping a file during transfer conflict resolution.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スキップ"
+          }
+        }
+      }
+    },
     "transfer.complete.title" : {
       "comment" : "Title displayed after files have been transferred from Mac.",
       "localizations" : {
