@@ -435,6 +435,23 @@
         }
       }
     },
+    "transfer.conflict.message" : {
+      "comment" : "Message displayed when the destination already has a file with the same name but a different size. The placeholders are filename, source size, and destination size.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" already exists at the destination with a different size.\n\nSource: %@\nDestination: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "転送先に同じ名前の \"%@\" がありますが、サイズが異なります。\n\n転送元: %@\n転送先: %@"
+          }
+        }
+      }
+    },
     "transfer.complete.title" : {
       "comment" : "Title displayed after files have been transferred from Mac.",
       "localizations" : {
