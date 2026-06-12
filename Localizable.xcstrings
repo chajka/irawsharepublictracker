@@ -452,6 +452,23 @@
         }
       }
     },
+    "transfer.conflict.overwrite" : {
+      "comment" : "Button title for overwriting a destination file during transfer conflict resolution.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overwrite"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上書き"
+          }
+        }
+      }
+    },
     "transfer.complete.title" : {
       "comment" : "Title displayed after files have been transferred from Mac.",
       "localizations" : {
