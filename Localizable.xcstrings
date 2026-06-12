@@ -486,6 +486,23 @@
         }
       }
     },
+    "transfer.conflict.title" : {
+      "comment" : "Title displayed when transfer conflict resolution requires the user to choose skip or overwrite.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File Already Exists"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "同名のファイルがあります"
+          }
+        }
+      }
+    },
     "transfer.complete.title" : {
       "comment" : "Title displayed after files have been transferred from Mac.",
       "localizations" : {
